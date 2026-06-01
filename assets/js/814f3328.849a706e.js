@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to MeteoStack","permalink":"/blog/welcome-to-meteostack","unlisted":false,"date":"2026-05-30T00:00:00.000Z"}]}')}}]);

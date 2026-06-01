@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MeteoStack Blog</title>
+        <link>https://www.meteostack.org/blog/</link>
+        <description>MeteoStack Blog</description>
+        <lastBuildDate>Sat, 30 May 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to MeteoStack]]></title>
+            <link>https://www.meteostack.org/blog/welcome-to-meteostack/</link>
+            <guid>https://www.meteostack.org/blog/welcome-to-meteostack/</guid>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is MeteoStack?]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-is-meteostack">What is MeteoStack?<a href="https://www.meteostack.org/blog/welcome-to-meteostack/#what-is-meteostack" class="hash-link" aria-label="Direct link to What is MeteoStack?" title="Direct link to What is MeteoStack?" translate="no">​</a></h2>
+<p>MeteoStack is an open-source project designed help people collect weather data
+using a custom self-built weather station.</p>
+<table><thead><tr><th><img src="https://www.meteostack.org/img/MeteoStack.png" width="256" height="256"></th><th><video width="320" height="240" loop="" autoplay=""><source src="/img/loading.webm" type="video/webm"></video></th></tr></thead><tbody><tr><td>Logo</td><td>Loading animation</td></tr></tbody></table>
+<p>(Credit for the logo design: Samma)</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="community-driven">Community-driven<a href="https://www.meteostack.org/blog/welcome-to-meteostack/#community-driven" class="hash-link" aria-label="Direct link to Community-driven" title="Direct link to Community-driven" translate="no">​</a></h2>
+<p>I intend this to be a community-driven project, and the community will be involved
+throughout every decision possible, polls will be held when making decisions, so
+watch out for them, as that's how you can help choose what happens with the project!</p>
+<p>If you would like to join in on the decision making, please either join the
+<a href="https://go.wtdawson.info/ms-ds/" target="_blank" rel="noopener noreferrer" class="">Discord server</a>, and or the
+<a href="https://go.wtdawson.info/ms-sc/" target="_blank" rel="noopener noreferrer" class="">Serchat server</a>. This is where polls are linked to,
+and where you can receive the latest news and announcements.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="little-to-no-reliance-on-third-party-dependencies">Little-to-no reliance on third-party dependencies<a href="https://www.meteostack.org/blog/welcome-to-meteostack/#little-to-no-reliance-on-third-party-dependencies" class="hash-link" aria-label="Direct link to Little-to-no reliance on third-party dependencies" title="Direct link to Little-to-no reliance on third-party dependencies" translate="no">​</a></h2>
+<p>MeteoStack will run on its own libraries where possible, to minimise the reliance on third-party dependencies,
+this is so that it's easier to manage, to update, but also for security, and for the overall quality of the software.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="more-to-come-soon">More to come soon...<a href="https://www.meteostack.org/blog/welcome-to-meteostack/#more-to-come-soon" class="hash-link" aria-label="Direct link to More to come soon..." title="Direct link to More to come soon..." translate="no">​</a></h2>
+<p>Future blog posts may be released detailing more about the project, how you can get involved, and how you can use
+the project to build your own weather station.</p>]]></content:encoded>
+            <category>MeteoStack</category>
+        </item>
+    </channel>
+</rss>
