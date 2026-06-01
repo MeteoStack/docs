@@ -92,7 +92,7 @@ const config: Config = {
       title: 'MeteoStack',
       logo: {
         alt: 'MeteoStack Logo',
-        src: 'img/Meteostack.png',
+        src: 'img/MeteoStack.png',
       },
       items: [
         {
