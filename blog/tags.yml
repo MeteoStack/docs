@@ -1,0 +1,9 @@
+meteostack:
+  label: MeteoStack
+  permalink: /meteostack
+  description: Everything MeteoStack
+
+release:
+  label: Release
+  permalink: /release
+  description: MeteoStack release information
