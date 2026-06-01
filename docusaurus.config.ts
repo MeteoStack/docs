@@ -84,7 +84,7 @@ const config: Config = {
       {name: 'keywords', content: 'meteostack, real-time weather, official meteostack, weather, embedded, open-source, weather station, pws, personal weather station, build your own station, build your own weather station, build your own,'},
       {name: 'twitter:card', content: 'summary_large_image'}
     ],
-    image: 'img/meteostack-social-card.png',
+    image: 'img/MeteoStack-social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
